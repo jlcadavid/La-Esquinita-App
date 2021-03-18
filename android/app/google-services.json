@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440944315874",
+    "firebase_url": "https://engage-8ebc6.firebaseio.com",
+    "project_id": "engage-8ebc6",
+    "storage_bucket": "engage-8ebc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440944315874:android:78a5824c807acbdd8dfdbb",
+        "android_client_info": {
+          "package_name": "wvsoftware.engage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440944315874-0egl7i1fv9s6jok2af1rujj87uh1m3ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1ZigHEqW0KE-LqjOSMF8ars1WD068Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440944315874-0egl7i1fv9s6jok2af1rujj87uh1m3ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
